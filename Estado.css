@@ -26,10 +26,7 @@ html{
 
 .nav img{
 height:50px;
-	border-radius: 50px;
-	background-color: #1158C1;
-	margin-top: 2%;
-	border: solid 1px white;
+	margin-top: 2%;	
 }
 
 .nav ul li a{
